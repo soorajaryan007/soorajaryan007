@@ -1,16 +1,24 @@
-## Hi there 👋
+# Sooraj Aryan
 
-<!--
-**soorajaryan007/soorajaryan007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## AI Engineer | Full-Stack Developer | Electrical Engineer
 
-Here are some ideas to get you started:
+Hello World 👋  
+Talk is cheap. Show me the code.
+## 👨‍💻 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🎓 Electrical Engineer with strong CS foundation
+- 🤖 Interested in AI, ML, Robotics, Embedded Systems
+- 🌱 Currently working on Full-Stack + AI projects
+- 🤝 Open to open-source collaboration
+## 🛠️ Skills & Tools
+
+**Languages:** Python, JavaScript, C++, SQL  
+**Frameworks:** FastAPI, React, Express  
+**Tools:** Git, Docker, Linux, AWS
+![Sooraj's GitHub stats](https://github-readme-stats.vercel.app/api?username=soorajaryan007&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=soorajaryan007&layout=compact&theme=radical)
+## 🔗 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://linkedin.com/in/YOUR_LINK)
+[![Gmail](https://img.shields.io/badge/Gmail-red?logo=gmail)](mailto:your@email.com)
+[![GitHub](https://img.shields.io/badge/GitHub-black?logo=github)](https://github.com/soorajaryan007)
