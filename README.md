@@ -9,7 +9,7 @@
 ## 👨‍💻 About Me
 
 * 🎓 Background in **Electrical Engineering** with strong foundations in **Computer Science**
-* 🤖 Deeply interested in **Artificial Intelligence, Machine Learning, and Data Analytics**
+* 🤖 Deeply interested in **Artificial Intelligence, Machine Learning, and Software Development**
 * 🧠 Enjoy connecting **engineering, business, and AI** to build real-world systems
 * 🏗️ Hands-on experience with **Full-Stack development**, **API design**, and **cloud deployment**
 * 🌱 Currently sharpening skills in **system design, scalable backends, and ML-powered applications**
@@ -21,11 +21,11 @@
 
 ### Languages
 
-* Python, JavaScript, C++, SQL
+* Python, JavaScript, SQL
 
 ### Frameworks & Libraries
 
-* FastAPI, Express.js, React, Next.js
+* FastAPI, Express.js, React, Next.js, Django
 
 ### Databases
 
@@ -61,8 +61,8 @@
 ## 🔗 Connect With Me
 
 [![GitHub](https://img.shields.io/badge/GitHub-black?logo=github)](https://github.com/soorajaryan007)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/)
-[![Gmail](https://img.shields.io/badge/Gmail-red?logo=gmail)](mailto:your@email.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/sooraj-aryan-213b5a114/)
+[![Gmail](https://img.shields.io/badge/Gmail-red?logo=gmail)](mailto:soorajaryan007@email.com)
 
 ---
 
