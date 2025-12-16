@@ -2,7 +2,6 @@
 
 ## AI & Backend Engineer | Full-Stack Developer | Electrical Engineer
 
-> *“Talk is cheap. Show me the code.”* — Linus Torvalds
 
 ---
 
