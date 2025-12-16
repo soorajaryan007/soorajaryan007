@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Sooraj Aryan
+# Hi, I'm Sooraj Aryan
 
 ## AI & Backend Engineer | Full-Stack Developer | Electrical Engineer
 
