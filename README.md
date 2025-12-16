@@ -62,13 +62,13 @@
 
 [![GitHub](https://img.shields.io/badge/GitHub-black?logo=github)](https://github.com/soorajaryan007)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/sooraj-aryan-213b5a114/)
-[![Gmail](https://img.shields.io/badge/Gmail-red?logo=gmail)](mailto:soorajaryan007@email.com)
+[![Gmail](https://img.shields.io/badge/Gmail-red?logo=gmail)](mailto:soorajaryan123@email.com)
 
 ---
 
 ## 📌 Featured Projects
 
-* 🗓️ **Doctor Booking System** – Full-stack scheduling app with FastAPI + React
+* 🗓️ **Clinic Booking System** – Full-stack scheduling app with FastAPI + React
 * ⚙️ **REST API Playground** – Clean REST design with auth, pagination, and validation
 * ☁️ **Dockerized Web Apps** – Production-ready deployments on AWS EC2
 
@@ -79,5 +79,3 @@
 I value **clarity over complexity**, **systems over hacks**, and **learning through building**. I enjoy writing code that is readable, testable, and scalable.
 
 ---
-
-⭐ *If you find my work interesting, feel free to explore my repositories or reach out for collaboration.*
