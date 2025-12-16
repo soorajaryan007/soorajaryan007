@@ -71,10 +71,4 @@
 * ⚙️ **REST API Playground** – Clean REST design with auth, pagination, and validation
 * ☁️ **Dockerized Web Apps** – Production-ready deployments on AWS EC2
 
----
 
-## 🧠 Philosophy
-
-I value **clarity over complexity**, **systems over hacks**, and **learning through building**. I enjoy writing code that is readable, testable, and scalable.
-
----
