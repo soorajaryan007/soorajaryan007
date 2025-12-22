@@ -1,4 +1,5 @@
 # Hi, I'm Sooraj Aryan
+![Profile Views](https://komarev.com/ghpvc/?username=soorajaryan007&label=Profile%20Views&color=0e75b6&style=flat)
 
 ## AI & Backend Engineer | Full-Stack Developer | Electrical Engineer
 
