@@ -21,11 +21,11 @@
 
 ### Languages
 
-* Python, JavaScript, SQL
+* Python, JavaScript, SQL, Java, C++, C
 
 ### Frameworks & Libraries
 
-* FastAPI, Express.js, React, Next.js, Django
+* FastAPI, Express.js, React.js, Next.js, Django
 
 ### Databases
 
