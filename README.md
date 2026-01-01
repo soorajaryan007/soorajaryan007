@@ -25,7 +25,7 @@
 
 ### Frameworks & Libraries
 
-* FastAPI, Django, Express.js, React.js, Next.js, Vue.js 
+* FastAPI, Django, Express.js, React.js,Vue.js 
 
 ### Databases
 
@@ -34,6 +34,14 @@
 ### DevOps & Cloud
 
 * Docker, Git, Linux, AWS (EC2, S3), CI/CD basics
+
+### Vector Database
+
+* FAISS
+
+### GenAI Framework
+
+* Langchain
 
 ### Data & AI
 
