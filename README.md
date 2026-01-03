@@ -1,8 +1,6 @@
 # Hi, I'm Sooraj Aryan
 ![Profile Views](https://komarev.com/ghpvc/?username=soorajaryan007&label=Profile%20Views&color=0e75b6&style=flat)
-
-## AI & Backend Engineer | Full-Stack Developer | Electrical Engineer
-
+## AI & Backend Engineer | Full-Stack Developer | Freelancer | Electrical Engineer
 
 ---
 
@@ -12,8 +10,10 @@
 * 🤖 Deeply interested in **Artificial Intelligence, Machine Learning, and Software Development**
 * 🧠 Enjoy connecting **engineering, business, and AI** to build real-world systems
 * 🏗️ Hands-on experience with **Full-Stack development**, **API design**, and **cloud deployment**
+* 💼 **Freelance Developer** – Open to backend, full-stack, and AI-focused projects
 * 🌱 Currently sharpening skills in **system design, scalable backends, and ML-powered applications**
 * 🤝 Open to **open-source collaboration** and impactful engineering work
+
 
 ---
 
@@ -65,6 +65,18 @@
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=soorajaryan007\&layout=compact\&theme=radical)
 
 ---
+
+## 💼 Freelance Work
+
+I’m available for **freelance and contract work**, especially in:
+
+* Backend development (FastAPI, Django, Node.js)
+* Full-stack applications (Vue / React)
+* AI-powered tools and automation
+* API design and system architecture
+
+📩 Feel free to reach out via LinkedIn or email.
+
 
 ## 🔗 Connect With Me
 
