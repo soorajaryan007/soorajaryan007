@@ -21,11 +21,11 @@
 
 ### Languages
 
-* Python, JavaScript, Java, C++, C, SQL
+* Python, JavaScript,PHP, Java, C++, C, SQL
 
 ### Frameworks & Libraries
 
-*Flask, FastAPI, Django, Express.js, React.js,Vue.js 
+*Flask, FastAPI, Django, Express.js, Laravel, React.js,Vue.js 
 
 ### Databases
 
@@ -46,6 +46,10 @@
 ### Data & AI
 
 * Machine Learning fundamentals, Data Analysis, Power BI
+
+### Desktop App framework
+
+* PyQt, Electron js
 
 ---
 
