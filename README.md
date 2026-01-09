@@ -154,27 +154,7 @@ End-to-end data processing and visualization system
 - **Features:** ETL pipelines, statistical analysis, interactive dashboards
 - **Insights:** Automated reporting and predictive analytics
 
-### **ML-Powered Recommendation Engine**
-Intelligent recommendation system with collaborative filtering
-- **Tech Stack:** Python, Scikit-learn, FastAPI, FAISS
-- **Features:** Real-time predictions, vector similarity search
-- **Performance:** Sub-100ms response time with 10k+ items
 
-### **Cloud-Native Web Applications**
-Containerized applications with automated deployment
-- **Tech Stack:** Docker, AWS, Nginx, GitHub Actions
-- **Features:** Blue-green deployment, automated scaling, monitoring
-- **Infrastructure:** Infrastructure as Code with documentation
-
----
-
-## 🤝 Open Source & Collaboration
-
-Actively seeking opportunities to contribute to impactful open-source projects, particularly in:
-- AI/ML frameworks and tools
-- Backend infrastructure libraries
-- Data science and analytics platforms
-- Developer tooling and automation
 
 ---
 
