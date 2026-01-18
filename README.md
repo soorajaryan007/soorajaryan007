@@ -2,7 +2,7 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=soorajaryan007&label=Profile%20Views&color=0e75b6&style=flat)
 
-**AI Engineer | Backend Specialist | Data Scientist | Full-Stack Developer**
+**AI Engineer | Backend Engineer | Full-Stack Developer**
 
 Electrical Engineering graduate with specialized expertise in artificial intelligence, backend architecture, and data science. Passionate about building intelligent systems that solve complex real-world problems through the intersection of machine learning, robust engineering, and scalable software design.
 
