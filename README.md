@@ -79,15 +79,14 @@ React.js | Vue.js | HTML5 | CSS3 | JavaScript ES6+
 
 **Data Science & ML**
 ```
-NumPy | Pandas | Scikit-learn | TensorFlow/PyTorch
+NumPy | Pandas | Scikit-learn | TensorFlow
 Matplotlib | Seaborn | Jupyter Notebooks
 Statistical Analysis | Machine Learning Algorithms
 ```
 
 **AI & GenAI Tools**
 ```
-LangChain | OpenAI API | FAISS | Vector Databases
-Natural Language Processing | LLM Integration
+LangChain | LangGraph |LangSmith | OpenAI API | FAISS | Vector Databases | LLM Integration
 ```
 
 **Databases**
