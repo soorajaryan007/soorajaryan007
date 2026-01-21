@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hi, I'm Sooraj Aryan</h1>
+<h2 align="center">👋 Hi, I'm Sooraj Aryan</h2>
 <h3 align="center">AI Engineer • Backend Engineer • Full-Stack Developer</h3>
 
 <p align="center">
@@ -81,18 +81,6 @@
 
 ---
 
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=soorajaryan007&show_icons=true&theme=radical&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=soorajaryan007&theme=radical&hide_border=true" />
-</p>
-
----
-
 ## 🤝 Let’s Connect
 
 <p align="center">
@@ -114,4 +102,3 @@
 - Freelance & consulting  
 - Technical collaborations  
 
-⭐ *Build systems that scale. Ship code that matters.*
