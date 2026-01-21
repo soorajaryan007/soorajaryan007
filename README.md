@@ -12,16 +12,9 @@
 ⚡ Build **production-grade AI systems**  
 ⚡ Design **scalable backend architectures**  
 ⚡ Develop **data-driven full-stack applications**
-
-**Focus Areas**
-- AI & Machine Learning
-- Backend & API Engineering
-- Data Analytics & Visualization
-- Cloud-native systems
-
 ---
 
-## 🧠 Core Skills (at a glance)
+## 🧠 Core Skills
 
 ### 🧩 Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
