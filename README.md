@@ -9,9 +9,9 @@
 
 ## 🚀 What I Do
 
-⚡ Build **production-grade AI systems**  
+**⚡ Build **production-grade AI systems**  
 ⚡ Design **scalable backend architectures**  
-⚡ Develop **data-driven full-stack applications**
+⚡ Develop **data-driven full-stack applications****
 ---
 
 ## 🧠 Core Skills
