@@ -1,97 +1,45 @@
-<h2 align="center">👋 Hi, I'm Sooraj Aryan</h2>
-<h3 align="center">AI Engineer • Backend Engineer • Full-Stack Developer</h3>
-
+<h3 align="center">👋 Sooraj Aryan</h3>
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=soorajaryan007&label=Profile%20Views&color=0e75b6&style=flat" />
+  <sub>AI Engineer • Backend Engineer • Full-Stack Developer</sub>
 </p>
 
----
-
-## 🚀 What I Do
-
-**⚡ Build **production-grade AI systems**  
-⚡ Design **scalable backend architectures**  
-⚡ Develop **data-driven full-stack applications****
----
-
-## 🧠 Core Skills
-
-### 🧩 Languages
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
-![C++](https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-003B57?logo=postgresql&logoColor=white)
-
----
-
-### ⚙️ Backend & APIs
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi)
-![Django](https://img.shields.io/badge/Django-092E20?logo=django)
-![Flask](https://img.shields.io/badge/Flask-000000?logo=flask)
-![Express](https://img.shields.io/badge/Express.js-000000?logo=express)
-
----
-
-### 🤖 AI / Data / GenAI
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-102230)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C)
-![FAISS](https://img.shields.io/badge/FAISS-0468D7)
-![Power BI](https://img.shields.io/badge/PowerBI-F2C811?logo=powerbi)
-
----
-
-### ☁️ Cloud & DevOps
-![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazonaws)
-![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker)
-![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?logo=git)
-
----
-
-## 🏆 Highlight Projects
-
-### 🏥 AI-Powered Clinic Management System
-**FastAPI • React • PostgreSQL • Docker • AWS**
-- Smart appointment scheduling
-- Analytics dashboard
-- Production deployment with CI/CD
-
----
-
-### 🌐 Enterprise REST API Framework
-**FastAPI • SQLAlchemy • JWT**
-- Role-based access control
-- Pagination, validation, rate limiting
-- OpenAPI-compliant architecture
-
----
-
-### 📊 Data Analytics Platform
-**Python • Pandas • Power BI**
-- ETL pipelines
-- Statistical analysis
-- Predictive insights
-
----
-
-## 🤝 Let’s Connect
-
 <p align="center">
-  <a href="https://github.com/soorajaryan007">
-    <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white">
-  </a>
-  <a href="https://www.linkedin.com/in/sooraj-aryan-213b5a114/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white">
-  </a>
-  <a href="mailto:soorajaryan123@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white">
-  </a>
+  <img src="https://komarev.com/ghpvc/?username=soorajaryan007&label=Views&color=0e75b6&style=flat" />
 </p>
 
----
+<hr/>
 
-### 💼 Open To
-- Backend / AI Engineering roles  
-- Freelance & consulting  
-- Technical collaborations  
+<h4>🚀 Focus</h4>
+<ul>
+  <li>⚙️ Production-grade <b>AI systems</b></li>
+  <li>🔗 <b>Scalable backend APIs</b></li>
+  <li>📊 Data-driven full-stack apps</li>
+</ul>
 
+<h4>🧠 Tech Stack</h4>
+<p>
+  <sub>
+    <b>Languages:</b> Python · JavaScript · C++ · SQL<br/>
+    <b>Backend:</b> FastAPI · Django · Flask · React<br/>
+    <b>AI/Data:</b> ML · LangChain · FAISS · Power BI<br/>
+    <b>Infra:</b> AWS · Docker · Linux · Git
+  </sub>
+</p>
+
+<h4>🏆 Selected Projects</h4>
+<ul>
+  <li>🏥 <b>AI Clinic System</b> <sub>(FastAPI · React · PostgreSQL · AWS)</sub></li>
+  <li>🌐 <b>Enterprise REST APIs</b> <sub>(Auth · RBAC · OpenAPI)</sub></li>
+  <li>📈 <b>Analytics Platform</b> <sub>(ETL · Insights · Dashboards)</sub></li>
+</ul>
+
+<h4>🤝 Connect</h4>
+<p>
+  <a href="https://github.com/soorajaryan007">🐙 GitHub</a> ·
+  <a href="https://www.linkedin.com/in/sooraj-aryan-213b5a114/">💼 LinkedIn</a> ·
+  <a href="mailto:soorajaryan123@gmail.com">✉️ Email</a>
+</p>
+
+<p>
+  <sub><b>Open to:</b> Backend / AI Roles · Freelance · Collaboration</sub>
+</p>
