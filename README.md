@@ -2,13 +2,10 @@
 <p align="center">
   <sub>AI Engineer • Backend Engineer • Full-Stack Developer</sub>
 </p>
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=soorajaryan007&label=Views&color=0e75b6&style=flat" />
 </p>
-
 <hr/>
-
 <h4>🚀 Focus</h4>
 <ul>
   <li>⚙️ Production-grade <b>AI systems</b></li>
