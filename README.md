@@ -14,14 +14,12 @@
 </ul>
 
 <h4>🧠 Tech Stack</h4>
-<p>
-  <sub>
-    <b>Languages:</b> Python · JavaScript · C++ · SQL<br/>
-    <b>Backend:</b> FastAPI · Django · Flask · React<br/>
-    <b>AI/Data:</b> ML · LangChain · FAISS · Power BI<br/>
-    <b>Infra:</b> AWS · Docker · Linux · Git
-  </sub>
-</p>
+<ul>
+   <li><b>Languages:</b> Python · JavaScript · C++ · SQL<br/></li> 
+   <li><b>Backend:</b> FastAPI · Django · Flask · React<br/></li> 
+    <li><b>AI/Data:</b> ML · LangChain · FAISS · Power BI<br/></li>
+    <li><b>Infra:</b> AWS · Docker · Linux · Git</li>
+</ul>
 
 <h4>🏆 Selected Projects</h4>
 <ul>
@@ -38,5 +36,5 @@
 </p>
 
 <p>
-  <sub><b>Open to:</b> Backend / AI Roles · Freelance · Collaboration</sub>
+  <ul><b>Open to:</b> Backend / AI Roles · Freelance · Collaboration</ul>
 </p>
