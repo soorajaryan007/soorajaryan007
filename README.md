@@ -1,7 +1,7 @@
-<h3 align="center">👋 Sooraj Aryan</h3>
-<p align="center">
+<h2 align="center">👋 Sooraj Aryan</h2>
+<h3 align="center">
   <sub>AI Engineer • Backend Engineer • Full-Stack Developer</sub>
-</p>
+</h3>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=soorajaryan007&label=Views&color=0e75b6&style=flat" />
 </p>
