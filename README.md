@@ -1,3 +1,19 @@
+<!-- 🌊 Animated Header -->
+<div align="center">
+
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,3,5,30&height=250&section=header&text=Sooraj%20Aryan&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Backend%20Engineer%20%7C%20AI%20Engineer%20%7C%20Distributed%20Systems&descAlignY=55&descSize=18)
+
+</div>
+
+<!-- ⌨️ Typing Animation -->
+<div align="center">
+  
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1200&color=00C2FF&center=true&vCenter=true&width=650&lines=Scalable+Backend+Systems;FastAPI+Django+Flask+Expert;Distributed+Systems+%26+Microservices;AI+RAG+Systems+Builder;Kafka+Redis+%7C+Async+Processing;AWS+Cloud+Deployment)](https://git.io/typing-svg)
+
+</div>
+
+---
+
 <h2 align="center">👋 Sooraj Aryan</h2>
 
 <h3 align="center">
@@ -12,7 +28,7 @@
   🚀 Backend Software Engineer crafting scalable systems & intelligent applications  
 </p>
 
-<hr/>
+---
 
 <h3 align="center">💡 About Me</h3>
 
@@ -28,7 +44,7 @@
   <b>vector databases</b> and <b>large language models</b>.  
 </p>
 
-<hr/>
+---
 
 <h3 align="center">⚙️ Tech Arsenal</h3>
 
@@ -36,7 +52,16 @@
   <img src="https://skillicons.dev/icons?i=python,django,fastapi,flask,postgres,redis,aws,docker,kafka,git,linux" />
 </p>
 
-<hr/>
+---
+
+<h3 align="center">📊 GitHub Stats</h3>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=soorajaryan007&show_icons=true&theme=tokyonight&hide_border=true" height="150"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=soorajaryan007&theme=tokyonight&hide_border=true" height="150"/>
+</p>
+
+---
 
 <h3 align="center">🌐 Connect with Me</h3>
 
@@ -58,4 +83,8 @@
   <sub>💬 Open to collaborations • 🚀 Building scalable systems • 🤖 Exploring AI</sub>
 </p>
 
-<hr/>
+---
+
+<p align="center">
+  <i>"Code that scales like infrastructure, intelligence that evolves like a system."</i>
+</p>
