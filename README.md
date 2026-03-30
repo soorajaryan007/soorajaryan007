@@ -38,16 +38,24 @@
 
 <hr/>
 
-<h3 align="center">🌐 Connect</h3>
+<h3 align="center">🌐 Connect with Me</h3>
 
 <p align="center">
-  <a href="https://github.com/soorajaryan007">🐙 GitHub</a> &nbsp;•&nbsp;
-  <a href="https://www.linkedin.com/in/sooraj-aryan-213b5a114/">💼 LinkedIn</a> &nbsp;•&nbsp;
-  <a href="mailto:soorajaryan123@gmail.com">✉️ Email</a>
+  <a href="https://github.com/soorajaryan007">
+    <img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/sooraj-aryan-213b5a114/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  &nbsp;
+  <a href="mailto:soorajaryan123@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
+
+<p align="center">
+  <sub>💬 Open to collaborations • 🚀 Building scalable systems • 🤖 Exploring AI</sub>
 </p>
 
 <hr/>
-
-<p align="center">
-  <i>"Building systems that scale, and intelligence that evolves."</i>
-</p>
