@@ -19,11 +19,11 @@
 <!-- 🌐 Connect With Me -->
 <div align="center">
 
-<a href="https://www.linkedin.com/in/YOUR-LINKEDIN" target="_blank">
+<a href="https://www.linkedin.com/in/sooraj-aryan-213b5a114" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="https://leetcode.com/YOUR-LEETCODE" target="_blank">
+<a href="https://leetcode.com/u/soorajaryan" target="_blank">
   <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
 </a>
 
@@ -40,9 +40,30 @@
 
 ---
 
-<!-- 🧠 System Status -->
-```diff
-+ ⚡ SYSTEM STATUS: RUNNING
-+ 🚀 SCALABILITY MODE: ENABLED
-+ 🧠 AI SYSTEMS: ACTIVE
-+ 📡 DISTRIBUTED NETWORK: STABLE
+## 🧠 System Dashboard
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR-GITHUB-USERNAME&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR-GITHUB-USERNAME&theme=tokyonight&hide_border=true" height="160"/>
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-GITHUB-USERNAME&layout=compact&theme=tokyonight&hide_border=true" height="150"/>
+
+</div>
+
+---
+
+### ⚡ System Status
+
+```yaml
+STATUS:        RUNNING ⚡
+SCALABILITY:   ENABLED 🚀
+AI SYSTEMS:    ACTIVE 🧠
+NETWORK:       STABLE 📡
+COMMITS:       INCREASING 🔥
+UPTIME:        24x7 BUILD MODE 🛰️
