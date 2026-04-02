@@ -16,6 +16,21 @@
 
 ---
 
+<!-- 🌐 Connect With Me -->
+<div align="center">
+
+<a href="https://www.linkedin.com/in/YOUR-LINKEDIN" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://leetcode.com/YOUR-LEETCODE" target="_blank">
+  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+</a>
+
+</div>
+
+---
+
 <!-- 🔮 Tech Stack -->
 <div align="center">
 
